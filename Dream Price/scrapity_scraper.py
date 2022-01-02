@@ -62,5 +62,4 @@ def send_mail(url, body_msg):
 while(True):
   cp_consul_oven()
   cp_grapic_card()
-  time.sleep(86400)
-
+  time.sleep(21600)
